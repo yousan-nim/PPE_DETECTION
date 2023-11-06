@@ -3,4 +3,4 @@
 
 
 
-(https://github.com/IZZARA-URA/PPE_DETECTION/blob/main/images/Test00.jpg)
+![alt text](https://github.com/IZZARA-URA/PPE_DETECTION/blob/main/images/Test00.jpg)
